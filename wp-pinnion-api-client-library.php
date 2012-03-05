@@ -1,7 +1,7 @@
 <?php
 /*
  Plugin Name: Pinnion API Client Library
- Plugin URI: http://github.com/blobaugh/Meetup-API-client-for-PHP
+ Plugin URI: https://github.com/blobaugh/WP-Pinnion-API-Client-Library
  Description: Adds the Pinnion API client for PHP to a WordPress installation to make the libraries available to plugin developers
  Version: 0.1
  Author: Ben Lobaugh
