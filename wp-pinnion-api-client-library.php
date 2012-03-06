@@ -17,14 +17,14 @@
  * Possibly add listing of endpoints to form
  */
 
-add_action( 'init', 'pinnion_api_client_includes' );
+add_action( 'init', 'pinnion_api_client_includes', 1 );
 
 function pinnion_api_client_includes() {
     global $blog_id;
     require_once 'Pinnion-API-client-for-PHP/Pinnion.php';
 }
 
-add_action( 'admin_menu', 'pinnion_api_client_menu' );
+add_action( 'admin_menu', 'pinnion_api_client_menu', 2 );
 
 function pinnion_api_client_register() {
   global $blog_id;
