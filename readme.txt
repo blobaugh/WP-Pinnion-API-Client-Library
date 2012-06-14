@@ -8,6 +8,8 @@ Adds the Pinnion API client for PHP to a WordPress installation to make the libr
 
 == Description ==
 
+** NOTE **. Pinnion was a startup company that no longer exists. This plugin is kept around for posterity reasons only.
+
 This is a plugin for the WordPress content management system. This plugin allows developers wishing to utilize the Pinnion (http://pinnion.com) API quick and easy acces to the Pinnion API Client libraries (https://github.com/blobaugh/Pinnion-API-client-for-PHP) inside of WordPress.
 
 Simply place this folder inside your WordPress plugins folder and activate it.
